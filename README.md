@@ -1,70 +1,12 @@
-**关于作者：**
+👍推荐:PDF 版本在[公众号 JavaGuide](#公众号) 后台回复“开源”即可获取！
 
-1. 公众号 ： [JavaGuide](#公众号) （最新原创文章+免费领取本文档配套的《Java 面试突击》以及 Java 工程师必备学习资源）
-2. B 站：[Guide 哥](https://space.bilibili.com/504390397) （各种干货视频和生活向视频，来个一键三连可好！）
+<p align="center"> <img src="https://guide-blog-images.oss-cn-shenzhen.aliyuncs.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/Awesome-Java.png" /> <br />中文 | <a href="https://github.com/Snailclimb/awsome-java/blob/master/README-EN.md">English</a> <br />Great Java project on Github(Github 上非常棒的 Java 开源项目). </p>
 
-<p align="center"> <img src="https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-11/logo.png" /> <br />中文 | <a href="https://github.com/Snailclimb/awsome-java/blob/master/README-EN.md">English</a> <br />Great Java project on Github(Github 上非常棒的 Java 开源项目). </p>
 大家都知道 Github 是一个程序员福地，这里有各种厉害的开源框架、软件或者教程。这些东西对于我们学习和进步有着莫大的进步，所以我有了这个将 Github 上非常棒的 Java 开源项目整理下来的想法。我会按照几个维度对项目进行分类，以便大家查阅。当然，如果你觉得不错的话，欢迎给本项目点个 Star。我会用我的业余时间持续完善这份名单，谢谢 🙏。
 
 欢迎大家推荐自己觉得不错的 Java 项目，下面项目的排序很大程度是根据当前项目的 Star 数量。
 
 如果有码云上比较好的项目的话，我也会推荐到这里来！另外，我也会推荐少部分过于优秀但是非开源的优质 Java 项目。
-
-## 目录
-
-
-<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
-
-<!-- code_chunk_output -->
-
-- [目录](#目录)
-- [教程](#教程)
-  - [Java](#java)
-  - [数据结构/算法](#数据结构算法)
-  - [计算机基础](#计算机基础)
-  - [SpringBoot](#springboot)
-  - [SpringCloud](#springcloud)
-  - [大数据](#大数据)
-- [实战项目](#实战项目)
-  - [商城系统](#商城系统)
-  - [博客/论坛/其他](#博客论坛其他)
-  - [权限管理系统](#权限管理系统)
-  - [快速开发脚手架](#快速开发脚手架)
-- [系统设计](#系统设计)
-  - [微服务/分布式](#微服务分布式)
-    - [基础框架](#基础框架)
-    - [Spring Cloud Alibaba](#spring-cloud-alibaba)
-    - [API 网关](#api-网关)
-    - [配置中心](#配置中心)
-    - [链路追踪](#链路追踪)
-    - [消息中间件](#消息中间件)
-  - [任务调度/定时任务](#任务调度定时任务)
-  - [搜索引擎](#搜索引擎)
-  - [数据库](#数据库)
-    - [连接池](#连接池)
-    - [数据库中间件](#数据库中间件)
-    - [Redis](#redis)
-    - [框架](#框架)
-  - [大数据](#大数据-1)
-  - [日志系统](#日志系统)
-  - [开放平台(如微信)](#开放平台如微信)
-  - [测试](#测试)
-  - [机器学习](#机器学习)
-- [Devpos](#devpos)
-  - [CI](#ci)
-- [工具](#工具)
-  - [常用工具类/代码质量](#常用工具类代码质量)
-  - [Excel](#excel)
-  - [PDF](#pdf)
-  - [开发必备](#开发必备)
-    - [API 请求](#api-请求)
-    - [Markdown](#markdown)
-  - [其他](#其他)
-- [说明](#说明)
-  - [公众号](#公众号)
-  - [成员列表](#成员列表)
-
-<!-- /code_chunk_output -->
 
 
 ## 教程
@@ -93,6 +35,7 @@
 2. **[TheAlgorithms-Java](https://github.com/TheAlgorithms/Java "TheAlgorithms-Java")** :All Algorithms implemented in Java。
 3. **[leetcode](https://github.com/doocs/leetcode)** ：多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解。
 4. **[LeetCode-Solution-in-Good-Style](https://github.com/liweiwei1419/LeetCode-Solution-in-Good-Style)** ：这个项目是作者在学习《算法与数据结构》的时候，在 [LeetCode（力扣）](https://leetcode-cn.com/) 上做的练习，刷题以 Java 语言为主。作者在刷题的时候，非常考虑代码质量，他的很多问题的回答都被 Leetcode 官方精选，值得推荐!
+5. **[Algorithms-in-4-Steps](https://github.com/Xunzhuo/Algorithms-in-4-Steps)** ：四步从0到1系统学习算法和数据结构。
 
 ### 计算机基础
 
@@ -139,7 +82,7 @@ _Guide 哥注：下面的商城系统大多比较复杂比如 mall ,如果没有
 5. **[xmall](https://github.com/Exrick/xmall)** :基于 SOA 架构的分布式电商购物商城 前后端分离 前台商城:Vue 全家桶 后台管理系统:Spring/Dubbo/SSM/Elasticsearch/Redis/MySQL/ActiveMQ/Shiro/Zookeeper 等
 6. **[newbee-mall](https://github.com/newbee-ltd/newbee-mall)** :newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。
 
-### 博客/论坛/其他
+### 博客/论坛/考试系统/其他
 
 _Guide 哥注：下面这几个项目都是非常适合 Spring Boot 初学者学习的，下面的大部分项目的总体代码架构我都看过，个人觉得还算不错，不会误导没有实际做过项目的老哥，特别是前两个项目 vhr 和 favorites-web 。_
 
@@ -148,6 +91,8 @@ _Guide 哥注：下面这几个项目都是非常适合 Spring Boot 初学者学
 3. **[community](https://github.com/codedrinker/community)** ：开源论坛、问答系统，现有功能提问、回复、通知、最新、最热、消除零回复功能。功能持续更新中…… 技术栈 Spring、Spring Boot、MyBatis、MySQL/H2、Bootstrap。
 4. **[VBlog](https://github.com/lenve/VBlog)** ：V 部落，Vue+SpringBoot 实现的多用户博客管理平台!
 5. **[My-Blog](https://github.com/ZHENFENG13/My-Blog)** ： My Blog 是由 SpringBoot + Mybatis + Thymeleaf 等技术实现的 Java 博客系统，页面美观、功能齐全、部署简单及完善的代码，一定会给使用者无与伦比的体验。
+6. **[uexam](https://gitee.com/mindskip/uexam)** ：一个非常不错的考试系统！考试系统应用场景还挺多的，不论是对于在校大学生还是已经工作的小伙伴，并且，类似的私活也有很多。相关阅读：[《好一个 Spring Boot 开源在线考试系统！解决了我的燃眉之急》](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzg2OTA0Njk0OA%3D%3D%26mid%3D2247491585%26idx%3D1%26sn%3D8d3c6768c22e72d6bfcbeee9624886a7%26chksm%3Dcea1afcaf9d626dc918760289c37025ad526f6255786bc198d2402203df64c873ad7934f58df%26scene%3D178%26cur_album_id%3D1345382825083895808%23rd) 。
+7. **[PassJava-Platform](https://github.com/Jackson0714/PassJava-Platform)** ：一个基于微服务(SpringBoot、Spring Cloud)的面试刷题系统！相关阅读：[《一个基于 Spring Cloud 的面试刷题系统。面试、毕设、项目经验一网打尽》](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzg2OTA0Njk0OA%3D%3D%26mid%3D2247497045%26idx%3D1%26sn%3D577175bfd6c040a0df5a494fce6f9758%26chksm%3Dcea1ba9ef9d633883a2e213c0fb9a88bdc87051347d4b3fad2c2befb65d8b16e1ea81d8146dd%26scene%3D178%26cur_album_id%3D1345382825083895808%23rd)。
 
 相关文章：
 
@@ -161,6 +106,7 @@ _Guide 哥注：权限管理系统在企业级的项目中一般都是非常重�
 2. **[pig](https://gitee.com/log4j/pig "pig")**：（gitee）基于 Spring Boot 2.2、 Spring Cloud Hoxton & Alibaba、 OAuth2 的 RBAC 权限管理系统。
 3. **[FEBS-Shiro](https://github.com/wuyouzhuguli/FEBS-Shiro "FEBS-Shiro")** ：Spring Boot 2.1.3，Shiro1.4.0 & Layui 2.5.4 权限管理系统。
 4. **[eladmin](https://github.com/elunez/eladmin)** : 项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue 的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由。
+5. **[SpringBoot-Shiro-Vue](https://github.com/Heeexy/SpringBoot-Shiro-Vue)** ：提供一套基于Spring Boot-Shiro-Vue的权限管理思路.前后端都加以控制,做到按钮/接口级别的权限。
 
 ### 快速开发脚手架
 
@@ -185,7 +131,8 @@ _Guide 哥注：权限管理系统在企业级的项目中一般都是非常重�
 #### 基础框架
 
 1. **[Spring Boot ](https://github.com/spring-projects/spring-boot "spring-boot")** ：Spring Boot 可以轻松创建独立的生产级基于 Spring 的应用程序,内置 web 服务器让你可以像运行普通 Java 程序一样运行项目。另外，大部分 Spring Boot 项目只需要少量的配置即可，这有别于 Spring 的重配置。
-2. **[spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba "spring-cloud-alibaba")** : Spring Cloud Alibaba 致力于提供微服务开发的一站式解决方案。此项目包含开发分布式应用微服务的必需组件，方便开发者通过 Spring Cloud 编程模型轻松使用这些组件来开发分布式应用服务。
+2. **[SOFABoot](https://github.com/sofastack/sofa-boot)** ：SOFABoot 基于 Spring Boot  ，不过在其基础上增加了 Readiness Check，类隔离，日志空间隔离等等能力。 配套提供的还有：SOFARPC（RPC框架）、SOFABolt（基于Netty的远程通信框架）、SOFARegistry（注册中心）...详情请参考：[SOFAStack ](https://github.com/sofastack) 。
+3. **[spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba "spring-cloud-alibaba")** : Spring Cloud Alibaba 致力于提供微服务开发的一站式解决方案。此项目包含开发分布式应用微服务的必需组件，方便开发者通过 Spring Cloud 编程模型轻松使用这些组件来开发分布式应用服务。
 
 #### Spring Cloud Alibaba
 
@@ -247,8 +194,8 @@ _Guide 哥注：权限管理系统在企业级的项目中一般都是非常重�
 任务调度/定时任务在系统中应用太广泛了。 **为什么需要任务调度/定时任务呢？**
 
 - **时间驱动处理场景**：整点发送优惠券，每天更新收益，每天刷新标签数据和人群数据。
-- **批量处理数据：**按月批量统计报表数据，批量更新短信状态，实时性要求不高。
-- **步执行解耦：**活动状态刷新，异步执行离线查询，与内部逻辑解耦。
+- **批量处理数据：** 按月批量统计报表数据，批量更新短信状态，实时性要求不高。
+- **步执行解耦：** 活动状态刷新，异步执行离线查询，与内部逻辑解耦。
 
 这类框架也比较多，下面就带大家看看！
 
@@ -297,8 +244,18 @@ Solr 比较老牌了，但是，目前生态以及社区活跃度都比不上 El
 
 1. **[MyBatis-Plus](https://github.com/baomidou/mybatis-plus)** : [MyBatis-Plus](https://github.com/baomidou/mybatis-plus)（简称 MP）是一个 [MyBatis](http://www.mybatis.org/mybatis-3/) 的增强工具，在 MyBatis 的基础上只做增强不做改变，为简化开发、提高效率而生。
 2. **[DataX](https://github.com/alibaba/DataX "DataX")** ：DataX 是阿里巴巴集团内被广泛使用的离线数据同步工具/平台，实现包括 MySQL、Oracle、SqlServer、Postgre、HDFS、Hive、ADS、HBase、TableStore(OTS)、MaxCompute(ODPS)、DRDS 等各种异构数据源之间高效的数据同步功能。
-3. **[canal](https://github.com/alibaba/canal "canal")** : **canal [kə'næl]**，译意为水道/管道/沟渠，主要用途是基于 MySQL 数据库增量日志解析，提供增量数据订阅和消费
+3. **[Canal](https://github.com/alibaba/canal "canal")** : **canal [kə'næl]**，译意为水道/管道/沟渠，主要用途是基于 MySQL 数据库增量日志解析，提供增量数据订阅和消费
 4. **[dynamic-datasource-spring-boot-starter](https://github.com/baomidou/dynamic-datasource-spring-boot-starter])** ：dynamic-datasource-spring-boot-starter 是一个基于 springboot 的快速集成多数据源的启动器。如果说你有配置多数据源、读写分离等需求的话，可以了解一下这个项目。
+
+### 日志系统
+
+- **EKL 老三件套** : 最原始的时候，ELK 是由 3 个开源项目的首字母构成，分别是 **E**lasticsearch 、**L**ogstash、**K**ibana。
+- **新一代 ELK 架构** : Elasticsearch+Logstash+Kibana+Beats。
+- **EFK** : EFK 中的 F 代表的是 [Fluentd](https://github.com/fluent/fluentd)。
+
+### 监控中心
+
+- **[Spring Boot Admin](https://github.com/codecentric/spring-boot-admin)** ：管理和监控 Spring Boot 应用程序。
 
 ### 大数据
 
@@ -308,19 +265,10 @@ Solr 比较老牌了，但是，目前生态以及社区活跃度都比不上 El
 4. **[Flume](https://flume.apache.org/)** :Apache Flume 是一个分布式的、可靠的、可用的，从多种不同的源收集、聚集、移动大量日志数据到集中数据存储的系统。
 5. **[Storm](https://storm.apache.org/)** : 一个分布式，高容错的实时计算系统。
 
-### 日志系统
+### HTTP客户端
 
-实际项目中使用 ELK 三件套（Elasticsearch，Logstash，Kibana）来做日志系统的非常多。
-
-另外，像 Prometheus + Grafana 也是比较主流的，相关阅读：[Prometheus + Grafana 监控配置指北：打造专属监控系统](https://counter2015.com/2020/04/13/grafana-monitor-2/) 。
-
-1. **[loki](https://github.com/grafana/loki)** ： `Loki`是 Grafana Labs 团队最新的开源项目，是一个水平可扩展，高可用性，多租户的日志聚合系统。它的设计非常经济高效且易于操作，因为它不会为日志内容编制索引，而是为每个日志流编制一组标签。项目受 Prometheus 启发，官方的介绍就是：`Like Prometheus, but for logs.`，类似于 Prometheus 的日志系统。相关阅读：
-   - [Loki 日志系统](https://www.cnblogs.com/xiao987334176/p/13187473.html)
-   - [使用 Loki 进行日志监控和报警](https://www.qikqiak.com/post/use-loki-monitor-alert/)
-
-### 开放平台(如微信)
-
-1. **[WxJava](https://github.com/Wechat-Group/WxJava)** : WxJava （微信开发 Java SDK），支持包括微信支付、开放平台、小程序、企业微信/企业号和公众号等的后端开发。
+1. **[Retrofit](https://github.com/square/retrofit)** ：适用于 Android 和 Java 的类型安全的 HTTP 客户端。Retrofit 的 HTTP 请求使用的是 [OkHttp](https://square.github.io/okhttp/) 库（一款被广泛使用网络框架）。
+2. **[Forest](https://gitee.com/dt_flys/forest)**  ：轻量级 HTTP 客户端 API 框架，让 Java 发送 HTTP/HTTPS 请求不再难。它比 OkHttp 和 HttpClient 更高层，是封装调用第三方 restful api client 接口的好帮手，是 retrofit 和 feign 之外另一个选择。
 
 ### 测试
 
@@ -335,6 +283,10 @@ Solr 比较老牌了，但是，目前生态以及社区活跃度都比不上 El
 
 1. [The Practical Test Pyramid- Martin Fowler](https://martinfowler.com/articles/practical-test-pyramid.html) (很赞的一篇文章，不过是英文的)
 2. [浅谈测试之 PowerMock](https://juejin.im/post/6844903982058618894)
+
+### 开放平台(如微信)
+
+1. **[WxJava](https://github.com/Wechat-Group/WxJava)** : WxJava （微信开发 Java SDK），支持包括微信支付、开放平台、小程序、企业微信/企业号和公众号等的后端开发。
 
 ### 机器学习
 
@@ -400,14 +352,4 @@ Solr 比较老牌了，但是，目前生态以及社区活跃度都比不上 El
 
 ### 公众号
 
-<img src="https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-11/默认标题_方形二维码_2019-11-28-0.png" style="zoom:150%;" />
-
-### 成员列表
-
-<a href="https://github.com/Snailclimb">
-    <img src="https://avatars1.githubusercontent.com/u/29880145?s=460&v=4" width="45px">
-</a>
-
-<a href="https://github.com/zhangjia">
-    <img src="https://avatars3.githubusercontent.com/u/30466440?s=460&v=4" width="45px">
-</a>
+![我的公众号](https://cdn.jsdelivr.net/gh/javaguide-tech/blog-images/2020-08/167598cd2e17b8ec.png)
