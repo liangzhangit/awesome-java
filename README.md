@@ -1,4 +1,4 @@
-👍推荐:PDF 版本在[公众号 JavaGuide](#公众号) 后台回复“开源”即可获取！
+👍 推荐:PDF 版本在[公众号 JavaGuide](#公众号) 后台回复“开源”即可获取！
 
 <p align="center"> <img src="https://guide-blog-images.oss-cn-shenzhen.aliyuncs.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/Awesome-Java.png" /> <br />中文 | <a href="https://github.com/Snailclimb/awsome-java/blob/master/README-EN.md">English</a> <br />Great Java project on Github(Github 上非常棒的 Java 开源项目). </p>
 
@@ -8,6 +8,8 @@
 
 如果有码云上比较好的项目的话，我也会推荐到这里来！另外，我也会推荐少部分过于优秀但是非开源的优质 Java 项目。
 
+- Github 地址：[https://github.com/CodingDocs/awesome-java](https://github.com/CodingDocs/awesome-java)
+- 码云地址：[https://gitee.com/SnailClimb/awesome-java](https://gitee.com/SnailClimb/awesome-java)（Github 无法访问或者访问速度比较慢的小伙伴可以看码云上的对应内容）
 
 ## 教程
 
@@ -35,7 +37,7 @@
 2. **[TheAlgorithms-Java](https://github.com/TheAlgorithms/Java "TheAlgorithms-Java")** :All Algorithms implemented in Java。
 3. **[leetcode](https://github.com/doocs/leetcode)** ：多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解。
 4. **[LeetCode-Solution-in-Good-Style](https://github.com/liweiwei1419/LeetCode-Solution-in-Good-Style)** ：这个项目是作者在学习《算法与数据结构》的时候，在 [LeetCode（力扣）](https://leetcode-cn.com/) 上做的练习，刷题以 Java 语言为主。作者在刷题的时候，非常考虑代码质量，他的很多问题的回答都被 Leetcode 官方精选，值得推荐!
-5. **[Algorithms-in-4-Steps](https://github.com/Xunzhuo/Algorithms-in-4-Steps)** ：四步从0到1系统学习算法和数据结构。
+5. **[Algorithms-in-4-Steps](https://github.com/Xunzhuo/Algorithms-in-4-Steps)** ：四步从 0 到 1 系统学习算法和数据结构。
 
 ### 计算机基础
 
@@ -46,9 +48,10 @@
 
 1. **[springboot-guide](https://github.com/Snailclimb/springboot-guide)** ：SpringBoot 核心知识点总结。 基于 Spring Boot 2.19+。
 2. **[SpringAll](https://github.com/wuyouzhuguli/SpringAll "SpringAll")** ：循序渐进，学习 Spring Boot、Spring Boot & Shiro、Spring Cloud、Spring Security & Spring Security OAuth2，博客 Spring 系列源码。
-3. **[springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example "springboot-learning-example")** ：Spring Boot 实践学习案例，是 Spring Boot 初学者及核心技术巩固的最佳实践。
-4. **[spring-boot-demo](https://github.com/xkcoding/spring-boot-demo "spring-boot-demo")** ：spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 63 个集成 demo，已经完成 52 个。
-5. **[SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs)** ：Spring Boot 系列教程。
+3. **[Springboot-Notebook](https://github.com/chengxy-nds/Springboot-Notebook)** :一系列以 Spring Boot 为基础开发框架，整合 Redis 、 Rabbitmq 、ES 、MongoDB 、Spring Cloud、Kafka、Skywalking 等互联网主流技术，实现各种常见功能点的综合性案例。
+4. **[springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example "springboot-learning-example")** ：Spring Boot 实践学习案例，是 Spring Boot 初学者及核心技术巩固的最佳实践。
+5. **[spring-boot-demo](https://github.com/xkcoding/spring-boot-demo "spring-boot-demo")** ：spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 63 个集成 demo，已经完成 52 个。
+6. **[SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs)** ：Spring Boot 系列教程。
 
 相关文章：[Github 点赞接近 100k 的 SpringBoot 学习教程+实战推荐！牛批！](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247488298&idx=3&sn=0a8fd88ec5a050de131c2a3305482ac4&chksm=cea25ce1f9d5d5f7f53a0237d27489326bce4546353b038085c03b086d91ef396bf824d3a155&token=496868067&lang=zh_CN#rd)
 
@@ -71,7 +74,7 @@
 
 _Guide 哥注：下面这些推荐的项目几乎都和 Spring Boot 有关，毕竟这年头没有理由再搞 SSM/SSH 这些东西了。_
 
-### 商城系统
+### 商城
 
 _Guide 哥注：下面的商城系统大多比较复杂比如 mall ,如果没有 Java 基础和 Spring Boot 都还没有摸熟的话不推荐过度研究下面几个项目或者使用这些项目当作毕业设计。_
 
@@ -82,7 +85,7 @@ _Guide 哥注：下面的商城系统大多比较复杂比如 mall ,如果没有
 5. **[xmall](https://github.com/Exrick/xmall)** :基于 SOA 架构的分布式电商购物商城 前后端分离 前台商城:Vue 全家桶 后台管理系统:Spring/Dubbo/SSM/Elasticsearch/Redis/MySQL/ActiveMQ/Shiro/Zookeeper 等
 6. **[newbee-mall](https://github.com/newbee-ltd/newbee-mall)** :newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。
 
-### 博客/论坛/考试系统/其他
+### 博客/论坛/考试系统
 
 _Guide 哥注：下面这几个项目都是非常适合 Spring Boot 初学者学习的，下面的大部分项目的总体代码架构我都看过，个人觉得还算不错，不会误导没有实际做过项目的老哥，特别是前两个项目 vhr 和 favorites-web 。_
 
@@ -106,18 +109,19 @@ _Guide 哥注：权限管理系统在企业级的项目中一般都是非常重�
 2. **[pig](https://gitee.com/log4j/pig "pig")**：（gitee）基于 Spring Boot 2.2、 Spring Cloud Hoxton & Alibaba、 OAuth2 的 RBAC 权限管理系统。
 3. **[FEBS-Shiro](https://github.com/wuyouzhuguli/FEBS-Shiro "FEBS-Shiro")** ：Spring Boot 2.1.3，Shiro1.4.0 & Layui 2.5.4 权限管理系统。
 4. **[eladmin](https://github.com/elunez/eladmin)** : 项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue 的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由。
-5. **[SpringBoot-Shiro-Vue](https://github.com/Heeexy/SpringBoot-Shiro-Vue)** ：提供一套基于Spring Boot-Shiro-Vue的权限管理思路.前后端都加以控制,做到按钮/接口级别的权限。
+5. **[SpringBoot-Shiro-Vue](https://github.com/Heeexy/SpringBoot-Shiro-Vue)** ：提供一套基于 Spring Boot-Shiro-Vue 的权限管理思路.前后端都加以控制,做到按钮/接口级别的权限。
 
 ### 快速开发脚手架
 
-1. **[RuoYi](https://gitee.com/y_project/RuoYi)** ：RuoYi 一款基于基于 SpringBoot 的权限管理系统 易读易懂、界面简洁美观，直接运行即可用 。
-2. **[Guns](https://gitee.com/stylefeng/guns)** ： 我在上大学的时候就了解和接触过了这个项目，当时我还是一个 Spring 入门不太久的小菜鸟。一晃，不经意间已经过去快 3 年了。**Guns 功能齐全 ，采用主流框架 Spring Boot2.0+开发，并且支持 Spring Cloud Alibaba 微服务）。 适合企业后台管理网站的快速开发场景，不论是对于单体和微服务都有支持。**
-3. **[SpringBlade](https://gitee.com/smallc/SpringBlade)** ：SpringBlade 是一个由商业级项目升级优化而来的 SpringCloud 分布式微服务架构、SpringBoot 单体式微服务架构并存的综合型项目，采用 Java8 API 重构了业务代码，完全遵循阿里巴巴编码规范。采用 Spring Boot 2 、Spring Cloud Hoxton 、Mybatis 等核心技术，同时提供基于 React 和 Vue 的两个前端框架用于快速搭建企业级的 SaaS 多租户微服务平台。
-4. **[renren](https://www.renren.io/)** ： renren 下面一共开源了两个 Java 项目开发脚手架：①renren-security :采用 Spring、MyBatis、Shiro 框架，开发的一套轻量级权限系统，极低门槛，拿来即用。②renren-fast : 一个轻量级的 Java 快速开发平台，能快速开发项目并交付【接私活利器】
-5. **[COLA](https://github.com/alibaba/COLA)** ：根据我的了解来看，很多公司的项目都是基于 COLA 进行开发的，相比于其他快速开发脚手架，COLA 并不提供什么已经开发好的功能，它提供的主要是一个干净的架构，然后你可以在此基础上进行开发。通过一行命令就生成好的 web 后端项目骨架。
-6. **[generator-jhipster](https://github.com/jhipster/generator-jhipster)** :开源应用程序平台，可在几秒钟内创建 Spring Boot + Angular / React 项目！
-7. **[jeecg-boot](https://github.com/zhangdaiscott/jeecg-boot)** :一款基于代码生成器的 JAVA 快速开发平台，开源界“小普元”超越传统商业企业级开发平台！
-8. **[zuihou-admin-cloud](https://github.com/zuihou/zuihou-admin-cloud)** :基于`SpringCloud(Hoxton.SR7)` + `SpringBoot(2.2.9.RELEASE)` 的 SaaS 型微服务快速开发平台，具备用户管理、资源权限管理、网关统一鉴权、Xss 防跨站攻击、自动代码生成、多存储系统、分布式事务、分布式定时任务等多个模块，支持多业务系统并行开发， 支持多服务并行开发，可以作为后端服务的开发脚手架。
+2. **[RuoYi](https://gitee.com/y_project/RuoYi)** ：RuoYi 一款基于基于 SpringBoot 的权限管理系统 易读易懂、界面简洁美观，直接运行即可用 。
+3. **[ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro)** ： 基于 SpringBoot，Spring Security，JWT，Vue & Element 的前后端分离权限管理系统。
+4. **[Guns](https://gitee.com/stylefeng/guns)** ： 我在上大学的时候就了解和接触过了这个项目，当时我还是一个 Spring 入门不太久的小菜鸟。一晃，不经意间已经过去快 3 年了。Guns 功能齐全 ，采用主流框架 Spring Boot2.0+开发，并且支持 Spring Cloud Alibaba 微服务）。 适合企业后台管理网站的快速开发场景，不论是对于单体和微服务都有支持。
+5. **[JHipster](https://github.com/jhipster/generator-jhipster)** :开源应用程序平台，可在几秒钟内创建 Spring Boot + Angular / React 项目！
+6. **[JeecgBoot](https://github.com/zhangdaiscott/jeecg-boot)** :一款基于代码生成器的 JAVA 快速开发平台，开源界“小普元”超越传统商业企业级开发平台！
+7. **[zuihou-admin-cloud](https://github.com/zuihou/zuihou-admin-cloud)** :基于`SpringCloud(Hoxton.SR7)` + `SpringBoot(2.2.9.RELEASE)` 的 SaaS 型微服务快速开发平台，具备用户管理、资源权限管理、网关统一鉴权、Xss 防跨站攻击、自动代码生成、多存储系统、分布式事务、分布式定时任务等多个模块，支持多业务系统并行开发， 支持多服务并行开发，可以作为后端服务的开发脚手架。
+8. **[Erupt](https://gitee.com/erupt/erupt)** : 使用 Java 注解，快速开发 Admin 管理后台。零前端代码、零 CURD、不生成任何代码、自动建表、注解式 API，支持所有主流数据库，支持自定义页面，支持多数据源，提供二十几类业务组件，十几种展示形式，支持逻辑删除，动态定时任务，前端后端分离等。 核心技术：Spring Boot、JPA、Reflect、TypeScript、NG-ZORRO 等。
+9. **[SmartAdmin](https://gitee.com/lab1024/smart-admin)** : 互联网企业级的通用型中后台解决方案！使用最前沿的前后台技术栈 SpringBoot 和 Vue，前后端分离!代码质量非常高！
+10. **[BallCat](https://github.com/ballcat-projects/ballcat)** ：一个功能完善的快速开发脚手架！除了最基本的权限管理，定时任务功能之外，还额外支持 XSS 过滤，SQL 防注入、数据脱敏等多种功能
 
 **相关文章** ：
 
@@ -126,21 +130,35 @@ _Guide 哥注：权限管理系统在企业级的项目中一般都是非常重�
 
 ## 系统设计
 
-### 微服务/分布式
+### 数据库
+
+#### 连接池
+
+1. **[Druid](https://github.com/alibaba/druid)** : 阿里巴巴数据库事业部出品，为监控而生的数据库连接池。
+2. **[HikariCP](https://github.com/brettwooldridge/HikariCP)** : 一个可靠的高性能 JDBC 连接池。Springboot 2.0 选择 HikariCP 作为默认数据库连接池。
+
+#### 缓存
+
+- **[Redisson](https://github.com/redisson/redisson "redisson")** ： [Redisson](https://redisson.org/ "Redisson")是架设在[Redis](http://redis.cn/ "Redis")基础上的一个 Java 驻内存数据网格（In-Memory Data Grid）,支持超过 30 个对象和服务:`Set`,`SortedSet`, `Map`, `List`, `Queue`, `Deque` ......。更多介绍请看：[《Redisson 项目介绍》](https://github.com/redisson/redisson/wiki/Redisson%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D "Redisson项目介绍")
+
+#### 框架
+
+1. **[MyBatis-Plus](https://github.com/baomidou/mybatis-plus)** : [MyBatis-Plus](https://github.com/baomidou/mybatis-plus)（简称 MP）是一个 [MyBatis](http://www.mybatis.org/mybatis-3/) 的增强工具，在 MyBatis 的基础上只做增强不做改变，为简化开发、提高效率而生。
+
+### 数据同步
+
+1. **[Canal](https://github.com/alibaba/canal "canal")** [kə'næl] : Canal 译意为水道/管道/沟渠，主要用途是基于 MySQL 数据库增量日志解析，提供增量数据订阅和消费。
+2. **[DataX](https://github.com/alibaba/DataX "DataX")** ：DataX 是阿里巴巴集团内被广泛使用的离线数据同步工具/平台，实现包括 MySQL、Oracle、SqlServer、Postgre、HDFS、Hive、ADS、HBase、TableStore(OTS)、MaxCompute(ODPS)、DRDS 等各种异构数据源之间高效的数据同步功能。
+
+其他：**[Flinkx](https://github.com/DTStack/flinkx)** （基于 Flink 的分布式数据同步工具）。
+
+### 微服务&分布式
 
 #### 基础框架
 
 1. **[Spring Boot ](https://github.com/spring-projects/spring-boot "spring-boot")** ：Spring Boot 可以轻松创建独立的生产级基于 Spring 的应用程序,内置 web 服务器让你可以像运行普通 Java 程序一样运行项目。另外，大部分 Spring Boot 项目只需要少量的配置即可，这有别于 Spring 的重配置。
-2. **[SOFABoot](https://github.com/sofastack/sofa-boot)** ：SOFABoot 基于 Spring Boot  ，不过在其基础上增加了 Readiness Check，类隔离，日志空间隔离等等能力。 配套提供的还有：SOFARPC（RPC框架）、SOFABolt（基于Netty的远程通信框架）、SOFARegistry（注册中心）...详情请参考：[SOFAStack ](https://github.com/sofastack) 。
+2. **[SOFABoot](https://github.com/sofastack/sofa-boot)** ：SOFABoot 基于 Spring Boot ，不过在其基础上增加了 Readiness Check，类隔离，日志空间隔离等等能力。 配套提供的还有：SOFARPC（RPC 框架）、SOFABolt（基于 Netty 的远程通信框架）、SOFARegistry（注册中心）...详情请参考：[SOFAStack ](https://github.com/sofastack) 。
 3. **[spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba "spring-cloud-alibaba")** : Spring Cloud Alibaba 致力于提供微服务开发的一站式解决方案。此项目包含开发分布式应用微服务的必需组件，方便开发者通过 Spring Cloud 编程模型轻松使用这些组件来开发分布式应用服务。
-
-#### Spring Cloud Alibaba
-
-1. **[Sentinel](https://github.com/alibaba/Sentinel "Sentinel")** ：A lightweight powerful flow control component enabling reliability and monitoring for microservices. (轻量级的流量控制、熔断降级 Java 库)。
-2. **[Dubbo](https://github.com/apache/dubbo "dubbo")** ：Apache Dubbo 是一个基于 Java 的高性能开源 RPC 框架。
-3. **[Nacos](https://github.com/alibaba/nacos "nacos")** ：Nacos 致力于帮助您发现、配置和管理微服务。Nacos 提供了一组简单易用的特性集，帮助您快速实现动态服务发现、服务配置、服务元数据及流量管理。Nacos 可以作为 Dubbo 的注册中心来使用。
-4. **[Seata](https://github.com/seata/seata "seata")** : Seata 是一种易于使用，高性能，基于 Java 的开源分布式事务解决方案。
-5. **[RocketMQ](https://github.com/apache/rocketmq "RocketMQ")** ：阿里巴巴开源的一款高性能、高吞吐量的分布式消息中间件。
 
 #### API 网关
 
@@ -179,15 +197,35 @@ _Guide 哥注：权限管理系统在企业级的项目中一般都是非常重�
 
 相关阅读： [Skywalking 官网对于主流开源链路追踪系统的对比](https://skywalking.apache.org/zh/blog/2019-03-29-introduction-of-skywalking-and-simple-practice.html)
 
-#### 消息中间件
+### 高并发
+
+#### 消息队列
 
 我们可以把消息队列比作是一个存放消息的容器，当我们需要使用消息的时候可以取出消息供自己使用。
 
 使用消息队列主要有两点好处：**一是通过异步处理提高系统性能（削峰、减少响应所需时间）；二是降低系统耦合性。**
 
+**分布式队列** ：
+
 1. **[RocketMQ](https://github.com/apache/rocketmq "RocketMQ")** ：阿里巴巴开源的一款高性能、高吞吐量的分布式消息中间件。
 2. **[Kafaka](https://github.com/apache/kafka "Kafaka")**: Kafka 是一种分布式的，基于发布 / 订阅的消息系统。关于它的入门可以查看：[Kafka 入门看这一篇就够了](https://github.com/Snailclimb/JavaGuide/blob/master/docs/system-design/data-communication/Kafka入门看这一篇就够了.md "Kafka入门看这一篇就够了")
 3. **[RabbitMQ](https://github.com/rabbitmq "RabbitMQ")** :由 erlang 开发的基于 AMQP（Advanced Message Queue 高级消息队列协议）协议实现的消息队列。
+
+**内存队列** ：
+
+1. **[Disruptor](https://github.com/LMAX-Exchange/disruptor)** ： Disruptor 是英国外汇交易公司 LMAX 开发的一个高性能队列，研发的初衷是解决内存队列的延迟问题（在性能测试中发现竟然与 I/O 操作处于同样的数量级）。相关阅读 ：
+   - [《高性能内存队列——Disruptor》](https://tech.meituan.com/2016/11/18/disruptor.html)
+   - [《你应该知道的高性能无锁队列 Disruptor》](https://juejin.cn/post/6844903648875528206)
+
+#### 数据源&读写分离&分库分表
+
+数据库的数据量大了之后就要考虑读写分离、分库分表，但是一定要尽量能避免分库分表就避免，因为会带来很多其他问题。
+
+1. **[ShardingSphere](https://github.com/apache/shardingsphere)** ：ShardingSphere 是一套开源的分布式数据库中间件解决方案组成的生态圈，它由 Sharding-JDBC、Sharding-Proxy 和 Sharding-Sidecar（计划中）这 3 款相互独立的产品组成。 他们均提供标准化的数据分片、分布式事务和数据库治理功能，可适用于如 Java 同构、异构语言、云原生等各种多样化的应用场景。中文文档：[https://shardingsphere.apache.org/document/current/cn/overview/](https://shardingsphere.apache.org/document/current/cn/overview/) 。
+2. **[MyCat](https://github.com/MyCatApache/MyCat2)** : MyCat 是数据库分库分表的中间件，MyCat 使用最多的两个功能是：读写分离和分库分表。MyCat 是一些社区爱好者在阿里 Cobar 的基础上进行二次开发，解决了 Cobar 当时存 在的一些问题，并且加入了许多新的功能在其中。
+3. **[dynamic-datasource-spring-boot-starter](https://github.com/baomidou/dynamic-datasource-spring-boot-starter])** ：dynamic-datasource-spring-boot-starter 是一个基于 springboot 的快速集成多数据源的启动器。如果说你有配置多数据源、读写分离等需求的话，可以了解一下这个项目。
+
+相关阅读：[数据库中间件详解（精品长文）](https://zhuanlan.zhihu.com/p/87144535)
 
 ### 任务调度/定时任务
 
@@ -220,93 +258,50 @@ Solr 比较老牌了，但是，目前生态以及社区活跃度都比不上 El
 1. **[Elasticsearch](https://github.com/elastic/elasticsearch "elasticsearch")**：开源，分布式，RESTful 搜索引擎。
 2. **[Solr](https://lucene.apache.org/solr/)** : Solr（读作“solar”）是 Apache Lucene 项目的开源企业搜索平台。
 
-### 数据库
+### 认证授权
 
-#### 连接池
+1. **[WxJava](https://github.com/Wechat-Group/WxJava)** : WxJava （微信开发 Java SDK），支持包括微信支付、开放平台、小程序、企业微信/企业号和公众号等的后端开发。
+2. **[Sa-Token](https://github.com/dromara/sa-token)** ：轻量级 Java 权限认证框架。支持认证授权、单点登录、踢人下线、自动续签等功能。
+3. **[JustAuth](https://github.com/justauth/JustAuth)** ：小而全而美的第三方登录开源组件。目前已经集成了诸如：Github、Gitee、支付宝、新浪微博、微信、Google、Facebook、Twitter、StackOverflow 等国内外数十家第三方平台。
 
-1. **[Druid](https://github.com/alibaba/druid)** : 阿里巴巴数据库事业部出品，为监控而生的数据库连接池。
-2. **[HikariCP](https://github.com/brettwooldridge/HikariCP)** : 一个可靠的高性能 JDBC 连接池。Springboot 2.0 选择 HikariCP 作为默认数据库连接池。
-
-#### 数据库中间件
-
-数据库的数据量大了之后就要考虑读写分离、分库分表，但是一定要尽量能避免分库分表就避免，因为会带来很多其他问题。
-
-1. **[ShardingSphere](https://github.com/apache/shardingsphere)** ：ShardingSphere 是一套开源的分布式数据库中间件解决方案组成的生态圈，它由 Sharding-JDBC、Sharding-Proxy 和 Sharding-Sidecar（计划中）这 3 款相互独立的产品组成。 他们均提供标准化的数据分片、分布式事务和数据库治理功能，可适用于如 Java 同构、异构语言、云原生等各种多样化的应用场景。中文文档：[https://shardingsphere.apache.org/document/current/cn/overview/](https://shardingsphere.apache.org/document/current/cn/overview/) 。
-2. **[MyCat](https://github.com/MyCatApache/MyCat2)** : MyCat 是数据库分库分表的中间件，MyCat 使用最多的两个功能是：读写分离和分库分表。MyCat 是一些社区爱好者在阿里 Cobar 的基础上进行二次开发，解决了 Cobar 当时存 在的一些问题，并且加入了许多新的功能在其中。
-
-相关阅读：[数据库中间件详解（精品长文）](https://zhuanlan.zhihu.com/p/87144535)
-
-#### Redis
-
-1. **[Redisson](https://github.com/redisson/redisson "redisson")** ： [Redisson](https://redisson.org/ "Redisson")是架设在[Redis](http://redis.cn/ "Redis")基础上的一个 Java 驻内存数据网格（In-Memory Data Grid）。支持超过 30 个对象和服务:Set, multiap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, RPC。[Redisson 项目介绍](https://github.com/redisson/redisson/wiki/Redisson%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D "Redisson项目介绍")
-
-#### 框架
-
-1. **[MyBatis-Plus](https://github.com/baomidou/mybatis-plus)** : [MyBatis-Plus](https://github.com/baomidou/mybatis-plus)（简称 MP）是一个 [MyBatis](http://www.mybatis.org/mybatis-3/) 的增强工具，在 MyBatis 的基础上只做增强不做改变，为简化开发、提高效率而生。
-2. **[DataX](https://github.com/alibaba/DataX "DataX")** ：DataX 是阿里巴巴集团内被广泛使用的离线数据同步工具/平台，实现包括 MySQL、Oracle、SqlServer、Postgre、HDFS、Hive、ADS、HBase、TableStore(OTS)、MaxCompute(ODPS)、DRDS 等各种异构数据源之间高效的数据同步功能。
-3. **[Canal](https://github.com/alibaba/canal "canal")** : **canal [kə'næl]**，译意为水道/管道/沟渠，主要用途是基于 MySQL 数据库增量日志解析，提供增量数据订阅和消费
-4. **[dynamic-datasource-spring-boot-starter](https://github.com/baomidou/dynamic-datasource-spring-boot-starter])** ：dynamic-datasource-spring-boot-starter 是一个基于 springboot 的快速集成多数据源的启动器。如果说你有配置多数据源、读写分离等需求的话，可以了解一下这个项目。
-
-### 日志系统
+### 日志
 
 - **EKL 老三件套** : 最原始的时候，ELK 是由 3 个开源项目的首字母构成，分别是 **E**lasticsearch 、**L**ogstash、**K**ibana。
 - **新一代 ELK 架构** : Elasticsearch+Logstash+Kibana+Beats。
 - **EFK** : EFK 中的 F 代表的是 [Fluentd](https://github.com/fluent/fluentd)。
+- **[TLog](https://gitee.com/dromara/TLog)** ：一个轻量级的分布式日志标记追踪神器，10 分钟即可接入，自动对日志打标签完成微服务的链路追踪。
 
-### 监控中心
+### 监控
 
 - **[Spring Boot Admin](https://github.com/codecentric/spring-boot-admin)** ：管理和监控 Spring Boot 应用程序。
+- **[Metrics](https://github.com/dropwizard/metrics)** ：捕获**JVM**和应用程序级别的指标。所以你知道发生了什么事。
 
-### 大数据
-
-1. **[Spark](https://github.com/apache/spark)** :Spark 是用于大规模数据处理的统一分析引擎。
-2. **[Flink](https://github.com/apache/flink "flink")** ：Apache Flink 是一个框架和分布式处理引擎，用于在*无边界和有边界*数据流上进行有状态的计算。Flink 能在所有常见集群环境中运行，并能以内存速度和任意规模进行计算。
-3. **[HBase](https://hbase.apache.org/)**： HBase – Hadoop Database，是一个高可靠性、高性能、面向列、可伸缩的分布式存储系统，利用 HBase 技术可在廉价 PC Server 上搭建起大规模结构化存储集群。
-4. **[Flume](https://flume.apache.org/)** :Apache Flume 是一个分布式的、可靠的、可用的，从多种不同的源收集、聚集、移动大量日志数据到集中数据存储的系统。
-5. **[Storm](https://storm.apache.org/)** : 一个分布式，高容错的实时计算系统。
-
-### HTTP客户端
+### HTTP 客户端
 
 1. **[Retrofit](https://github.com/square/retrofit)** ：适用于 Android 和 Java 的类型安全的 HTTP 客户端。Retrofit 的 HTTP 请求使用的是 [OkHttp](https://square.github.io/okhttp/) 库（一款被广泛使用网络框架）。
-2. **[Forest](https://gitee.com/dt_flys/forest)**  ：轻量级 HTTP 客户端 API 框架，让 Java 发送 HTTP/HTTPS 请求不再难。它比 OkHttp 和 HttpClient 更高层，是封装调用第三方 restful api client 接口的好帮手，是 retrofit 和 feign 之外另一个选择。
+2. **[Forest](https://gitee.com/dromara/forest)** ：轻量级 HTTP 客户端 API 框架，让 Java 发送 HTTP/HTTPS 请求不再难。它比 OkHttp 和 HttpClient 更高层，是封装调用第三方 restful api client 接口的好帮手，是 retrofit 和 feign 之外另一个选择。
 
 ### 测试
 
 为了能让我们编写的系统更加健壮，必要的测试（UI 测试、单元测试...）是必须的。
+
+**框架** :
 
 1. **[JUnit](http://junit.org/)** : Java 测试框架。
 2. **[Mockito](https://github.com/mockito/mockito)** ：Mockito 是一个模拟测试框架，可以让你用优雅，简洁的接口写出漂亮的单元测试。（对那些不容易构建的对象用一个虚拟对象来代替，使其在调试期间用来作为真实对象的替代品）
 3. **[PowerMock](https://github.com/powermock/powermock)** ： 编写单元测试仅靠 Mockito 是不够。因为 Mockito 无法 mock 私有方法、final 方法及静态方法等。PowerMock 这个 framework，主要是为了扩展其他 mock 框架，如 Mockito、EasyMock。它使用一个自定义的类加载器，纂改字节码，突破 Mockito 无法 mock 静态方法、构造方法、final 类、final 方法以及私有方法的限制。
 4. **[WireMock](https://github.com/tomakehurst/wiremock)** ：模拟 HTTP 服务的工具（Mock your APIs）。
 
+**测试平台** ：
+
+- **[MeterSphere](https://github.com/metersphere/metersphere)** : 一站式开源持续测试平台，涵盖测试跟踪、接口测试、性能测试、团队协作等功能，全面兼容 JMeter、Postman、Swagger 等开源、主流标准。
+
 相关阅读：
 
 1. [The Practical Test Pyramid- Martin Fowler](https://martinfowler.com/articles/practical-test-pyramid.html) (很赞的一篇文章，不过是英文的)
 2. [浅谈测试之 PowerMock](https://juejin.im/post/6844903982058618894)
 
-### 开放平台(如微信)
-
-1. **[WxJava](https://github.com/Wechat-Group/WxJava)** : WxJava （微信开发 Java SDK），支持包括微信支付、开放平台、小程序、企业微信/企业号和公众号等的后端开发。
-
-### 机器学习
-
-1. **[Deeplearning4j](https://github.com/eclipse/deeplearning4j)** ： Deeplearning4j 是第一个为 Java 和 Scala 编写的商业级，开源，分布式深度学习库。
-2. **[Smile](https://github.com/haifengl/smile)** ：基于 Java 和 Scala 的机器学习库。
-
-相关阅读：
-
-1. [Java 能用于机器学习和数据科学吗？-InfoQ](https://www.infoq.cn/article/GA9UeYlv8ohBzBso9eph)
-2. [Deeplearning4j 入门 - IBM Developer](https://developer.ibm.com/zh/technologies/artificial-intelligence/articles/cc-get-started-deeplearning4j/)
-
-## Devpos
-
-### CI
-
-1. **[Jenkins](https://github.com/jenkinsci/jenkins)** : Jenkins 是领先的开源自动化服务器。它使用 Java 构建，提供了 1600 多个插件来支持几乎任何东西的自动化，从而使人类实际上可以将时间花在做机器无法做到的事情上。
-
-## 工具
-
-### 常用工具类/代码质量
+## 代码质量&常用工具类
 
 1. **[lombok](https://github.com/rzwitserloot/lombok)** :使用 Lombok 我们可以简化我们的 Java 代码，比如使用它之后我们通过注释就可以实现 getter/setter、equals 等方法。
 2. **[guava](https://github.com/google/guava "guava")** ：Guava 是一组核心库，其中包括新的集合类型（例如 multimap 和 multiset），不可变集合，图形库以及用于并发、I / O、哈希、原始类型、字符串等的实用程序！
@@ -319,6 +314,19 @@ Solr 比较老牌了，但是，目前生态以及社区活跃度都比不上 El
 9. **[hutool](https://github.com/looly/hutool "hutool")** : Hutool 是一个 Java 工具包，也只是一个工具包，它帮助我们简化每一行代码，减少每一个方法，让 Java 语言也可以“甜甜的”。
 10. **[oshi](https://github.com/oshi/oshi "oshi")** ：一款为 Java 语言提供的基于 JNA 的（本机）操作系统和硬件信息库。
 
+## Devpos
+
+### CI
+
+1. **[Jenkins](https://github.com/jenkinsci/jenkins)** : Jenkins 是领先的开源自动化服务器。它使用 Java 构建，提供了 1600 多个插件来支持几乎任何东西的自动化，从而使人类实际上可以将时间花在做机器无法做到的事情上。
+
+## 工具
+
+### 开发必备
+
+1. **[Redis Manager](https://github.com/ngbdf/redis-manager)** ：Redis Manager 是 Redis 一站式管理平台，支持集群（cluster、master-replica、sentinel）的监控、安装（除 sentinel）、管理、告警以及基本的数据操作功能。
+2. **[Portainer](https://github.com/portainer/portainer)** ：可视化管理 Docker 和 Kubernetes。相关阅读：[《吊炸天的 Docker 图形化工具 Portainer，必须推荐给你！》](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247504221&idx=1&sn=85a3c69d64fba1b0d6d8485ab28ab4c4&chksm=cea19e96f9d617802920d5769bafc824b3b80afdfb6166a00532f0caa3b6f5bdac930e4e89de&token=693114125&lang=zh_CN#rd)。
+
 ### Excel
 
 1. **[easyexcel](https://github.com/alibaba/easyexcel)** :快速、简单避免 OOM 的 java 处理 Excel 工具。
@@ -330,20 +338,36 @@ Solr 比较老牌了，但是，目前生态以及社区活跃度都比不上 El
 3. **[itext7](https://github.com/itext/itext7)** ：iText 7 代表了想要利用利用好 PDF 的开发人员的更高级别的 sdk。iText 7 配备了更好的文档引擎、高级和低级编程功能以及创建、编辑和增强 PDF 文档的能力，几乎对每个工作流都有好处。
 4. **[FOP](https://xmlgraphics.apache.org/fop/)** :Apache FOP 项目的主要的输出目标是 PDF。
 
-### 开发必备
-
-#### API 请求
+### API 请求
 
 1. **[Insomnia](https://insomnia.rest/)** :像人类而不是机器人一样调试 API。我平时经常用的，界面美观且轻量，总之很喜欢。
 2. **[postman](https://www.getpostman.com/)** ：API 请求生成器。
 3. **[postwoman](https://github.com/liyasthomas/postwoman "postwoman")** ：API 请求生成器-一个免费、快速、漂亮的 Postma 替代品。
 
-#### Markdown
+### Markdown
 
 1. **[Typora](https://www.typora.io/)** :我一直用的一款 Markdown 工具，直接文件夹试图和目录试图，支持 Markdown 格式直接导出成 PDF、HTML 等格式。
 2. **[markdown-here](https://github.com/adam-p/markdown-here)** ：使用 markdown 语法发邮件，并且提供多种主题，快来拯救你的邮件格式吧！
 
-### 其他
+## 大数据
+
+1. **[Spark](https://github.com/apache/spark)** :Spark 是用于大规模数据处理的统一分析引擎。
+2. **[Flink](https://github.com/apache/flink "flink")** ：Apache Flink 是一个框架和分布式处理引擎，用于在*无边界和有边界*数据流上进行有状态的计算。Flink 能在所有常见集群环境中运行，并能以内存速度和任意规模进行计算。
+3. **[HBase](https://hbase.apache.org/)**： HBase – Hadoop Database，是一个高可靠性、高性能、面向列、可伸缩的分布式存储系统，利用 HBase 技术可在廉价 PC Server 上搭建起大规模结构化存储集群。
+4. **[Flume](https://flume.apache.org/)** :Apache Flume 是一个分布式的、可靠的、可用的，从多种不同的源收集、聚集、移动大量日志数据到集中数据存储的系统。
+5. **[Storm](https://storm.apache.org/)** : 一个分布式，高容错的实时计算系统。
+
+## 机器学习
+
+1. **[Deeplearning4j](https://github.com/eclipse/deeplearning4j)** ： Deeplearning4j 是第一个为 Java 和 Scala 编写的商业级，开源，分布式深度学习库。
+2. **[Smile](https://github.com/haifengl/smile)** ：基于 Java 和 Scala 的机器学习库。
+
+相关阅读：
+
+1. [Java 能用于机器学习和数据科学吗？-InfoQ](https://www.infoq.cn/article/GA9UeYlv8ohBzBso9eph)
+2. [Deeplearning4j 入门 - IBM Developer](https://developer.ibm.com/zh/technologies/artificial-intelligence/articles/cc-get-started-deeplearning4j/)
+
+## 其他
 
 1. **[ip2region](https://github.com/lionsoul2014/ip2region)** :最自由的 ip 地址查询库，ip 到地区的映射库，提供 Binary,B 树和纯内存三种查询算法，妈妈再也不用担心我的 ip 地址定位。
 2. **[thingsboard](https://github.com/thingsboard/thingsboard "thingsboard")** ：开源物联网平台 - 设备管理，数据收集，处理和可视化。
